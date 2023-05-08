@@ -1,7 +1,7 @@
 ---
 title: Daily Bugle
 author: m4rtc
-categories: [Tryhackme, Dificil]
+categories: [CTF's, HackTheBox]
 tags: [tryhackme-dificil]
 ---
 ![inicio](/assets/tryhackme/DailyBugle/inicio.png)
@@ -13,7 +13,7 @@ tags: [tryhackme-dificil]
 <p>La informacion más relavante seria los directorios que contiene el puerto 80, y la version de Joomla 3.7.0 .<br/>Por simple deduccion podemos decir que debemos explotar por el servicio Joomla 3.7.0</p>
 
 <h3><center><ins>Explotacion por SQL con joomblah</ins></center></h3>
-Copiamos el contenido de este repositorio [joomblah.py](https://github.com/stefanlucas/Exploit-Joomla/blob/master/joomblah.py) y lo pegamos en nuestro nano. 
+Copiamos el contenido de este repositorio [joomblah.py](https://github.com/stefanlucas/Exploit-Joomla/blob/master/joomblah.py) y lo pegamos en nuestro nano.
 <pre>nano joomblah.py</pre>
 <p>Una vez copiado el script, procedemos ah usarlo</p>
 <pre>joomblah.py http://10.10.200.133/</pre>

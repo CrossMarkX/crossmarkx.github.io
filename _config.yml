@@ -11,35 +11,35 @@ baseurl: ''
 lang: es
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: 
+timezone:
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: m4rtc                 # the main title
+title: CrossMark | Blog                 # the main title
 
-tagline: Ciberseguridad & CTF    # it will display as the sub-title
+tagline: Ingeniero en Ciberseguridad, Pentester.    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Blog personal sobre Ciberseguridad y tips de estudio
+  En este blog estaré posteando write-ups de ctf's y artículos sobre ciberseguridad.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://m4rtc.github.io/'
+url: 'https://crossmarkX.github.io/'
 
 github:
-  username: m4rtc             # change to your github username
+  username: CrossMarkX             # change to your github username
 
 twitter:
-  username: Martc66283086           # change to your twitter username
+  username:            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Martc66283086 
-  email:             # change to your email address
+  name: CrossMark
+  email: leyvidgarrom@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/Martc66283086      # change to your twitter homepage
-    - https://github.com/m4rtc      # change to your github homepage
+    - https://twitter.com/      # change to your twitter homepage
+    - https://github.com/CrossMarkX      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -72,7 +72,7 @@ theme_mode: dark # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 
+img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar: assets/avatar.jpg

@@ -4,13 +4,13 @@ title: Acerca de mí
 icon: fas fa-info-circle
 order: 4
 ---
-<br/>
-> Hola! mi nombre es m4rtc tengo 17 años soy de Perú, estudio la carrera de ciberseguridad en la facultad, aunque la mayor parte de mi tiempo soy autodidacta.
-> Este blog tiene la finalidad de mostrar mi trayectoria como estudiante de ciberseguridad, tambien compartire algunos tips de estudio.
-> Mi refran vaforito es:
 
-<center>"LO QUE ES SEGURO... ES QUE NO HAY NINGUN CAMINO FACIL"</center>
+¡Hola! Soy CrossMark, un estudiante de ingeniería en ciberseguridad apasionado por el mundo del ethical hacking. Desde pequeño, siempre he estado fascinado por la tecnología y su capacidad de mejorar nuestras vidas. Sin embargo, también soy consciente de los peligros que existen en línea, como el robo de identidad, el fraude y los ataques informáticos.
 
+Por esta razón, me interesé en la ciberseguridad y decidí enfocar mi carrera en esta área. Actualmente, estoy aprendiendo técnicas de ethical hacking, que me permiten explorar sistemas informáticos y detectar vulnerabilidades antes de que puedan ser explotadas por personas malintencionadas.
 
-<h3 align="left">Recursos que se:</h3>
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></p>
+Creo firmemente que la ética es una parte fundamental de la ciberseguridad y me esfuerzo por practicarla en cada uno de mis proyectos. También creo que la educación es clave para prevenir ataques informáticos y, por lo tanto, me esfuerzo por compartir mis conocimientos con otros a través de este blog.
+
+En mi tiempo libre, disfruto de la lectura de artículos y libros relacionados con la ciberseguridad, la programación, y la informática en general. También me gusta participar en competiciones de hacking ético, donde puedo poner a prueba mis habilidades y aprender de otros profesionales en mi campo.
+
+Gracias por visitar mi blog, espero que encuentres información valiosa aquí y, si tienes alguna pregunta o comentario, no dudes en contactarme.
